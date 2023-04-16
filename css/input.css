@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#image{
+    background-image: url(../img/M_GlsfVM_400x400.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
